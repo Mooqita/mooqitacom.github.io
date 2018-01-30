@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Mooqita</title>
+    <link>/categories/howto/</link>
+    <description>Recent content in Howto on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Sep 2017 01:07:08 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mooqita for Educators in Detail</title>
+      <link>/blog/2017/09/26/2017-09-26_valuepropositioneducators/</link>
+      <pubDate>Tue, 26 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2017/09/26/2017-09-26_valuepropositioneducators/</guid>
+      <description>Mooqita is a platform that connects organizations, learners, and educators, creating meaningful learning experiences by solving real world work tasks. We help your learners to transfer the knowledge and skills you teach them into real world experience by enabling them to solve tasks that come from companies we work with. In the process, the students improve their soft skills by working on larger projects that can&amp;rsquo;t be solved alone, fostering team work, and communication in multicultural groups across different time zones.</description>
+    </item>
+    
+    <item>
+      <title>Mooqita for Organizations in Detail</title>
+      <link>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</link>
+      <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</guid>
+      <description>Mooqita is a platform that connects organizations, learners, and educators, creating meaningful learning experiences by solving real world work tasks. We match your organization with capable and highly motivated learners by letting them solve tasks that are crucial in your day-to-day operations. This builds up a pool of tested potential hires for you. As another result of this process you help create relevant work experience for our learners in a field of their interest.</description>
+    </item>
+    
+  </channel>
+</rss>

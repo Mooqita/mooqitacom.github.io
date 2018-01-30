@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learners on Mooqita</title>
+    <link>/tags/learners/</link>
+    <description>Recent content in Learners on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Sep 2017 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/learners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Successes</title>
+      <link>/blog/2017/09/06/2017-09-06_firstsuccesses/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2017/09/06/2017-09-06_firstsuccesses/</guid>
+      <description>We are conducting our first test run with the beta system and have some preliminary results. A total of 158 Students from the BerkeleyX Ruby online course on EdX accessed our website for the experiment. From 88 (~55%) of these students started the challenge, 14 (9%) submitted a solution, and 12 (8%) solutions were correct (solved the challenge), 6 (5%) Students submitted a solution for the second challenge and were invited for the paid group assignment.</description>
+    </item>
+    
+  </channel>
+</rss>

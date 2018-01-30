@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizations on Mooqita</title>
+    <link>/tags/organizations/</link>
+    <description>Recent content in Organizations on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 01:07:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/organizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mooqita for Organizations in Detail</title>
+      <link>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</link>
+      <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</guid>
+      <description>Mooqita is a platform that connects organizations, learners, and educators, creating meaningful learning experiences by solving real world work tasks. We match your organization with capable and highly motivated learners by letting them solve tasks that are crucial in your day-to-day operations. This builds up a pool of tested potential hires for you. As another result of this process you help create relevant work experience for our learners in a field of their interest.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mooqita</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Sep 2017 01:07:08 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aboutmooqita</title>
+      <link>/categories/aboutmooqita/</link>
+      <pubDate>Tue, 26 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/aboutmooqita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/categories/events/</link>
+      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Howto</title>
+      <link>/categories/howto/</link>
+      <pubDate>Tue, 26 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>/categories/reports/</link>
+      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
