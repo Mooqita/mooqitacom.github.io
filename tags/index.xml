@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mooqita.com, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 17 Oct 2017 01:07:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Berkeley</title>
       <link>/tags/berkeley/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
       <guid>/tags/berkeley/</guid>
       <description></description>
@@ -27,24 +27,6 @@
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
       <guid>/tags/class/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaboration</title>
-      <link>/tags/collaboration/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/collaboration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>/tags/conference/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
@@ -67,33 +49,6 @@
     </item>
     
     <item>
-      <title>Heidelberg</title>
-      <link>/tags/heidelberg/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/heidelberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>/tags/lab/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laureates</title>
-      <link>/tags/laureates/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/laureates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Leads</title>
       <link>/tags/leads/</link>
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
@@ -108,33 +63,6 @@
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
       <guid>/tags/learners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>/tags/networking/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newcastle</title>
-      <link>/tags/newcastle/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/newcastle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Openlab</title>
-      <link>/tags/openlab/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
-      
-      <guid>/tags/openlab/</guid>
       <description></description>
     </item>
     
@@ -159,7 +87,7 @@
     <item>
       <title>Students</title>
       <link>/tags/students/</link>
-      <pubDate>Tue, 17 Oct 2017 01:07:08 +0200</pubDate>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
       <guid>/tags/students/</guid>
       <description></description>
