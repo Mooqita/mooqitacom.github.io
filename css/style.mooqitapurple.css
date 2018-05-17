@@ -1466,7 +1466,7 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 20px;
-  height: 55px;
+  height: 65px;
 }
 .testimonials .item .testimonial .bottom .icon {
   color: #8d0162;
@@ -1491,7 +1491,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .testimonials .item .testimonial .name-picture img {
   float: right;
-  width: 74px;
+  width: 80px;
   border-radius: 37px;
   margin-left: 10px;
 }
