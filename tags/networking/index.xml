@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Mooqita</title>
+    <link>/tags/networking/</link>
+    <description>Recent content in Networking on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.com, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 19 Jun 2018 01:07:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mooqita at CHI &#39;18</title>
+      <link>/blog/2018/06/19/2018-06-19_mooqitaatchi/</link>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2018/06/19/2018-06-19_mooqitaatchi/</guid>
+      <description>Mooqita is happy to announce that our team’s case study submission was accepted and published at CHI 2018, the ACM Conference on Human Factors in Computing Systems. CHI is the premier international conference on human-computer interaction that brings forth researchers and practitioners to discuss advances in interactive technology. This year the conference took place from April 21st – April 26st in Montréal Canada, and our Mooqita team members Markus Krause and Jan Smeddinck attended and represented the team.</description>
+    </item>
+    
+  </channel>
+</rss>

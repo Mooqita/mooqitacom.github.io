@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mooqita.com, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 26 Sep 2017 01:07:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 01:07:08 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Aboutmooqita</title>
       <link>/categories/aboutmooqita/</link>
-      <pubDate>Tue, 26 Sep 2017 01:07:08 +0200</pubDate>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
       
       <guid>/categories/aboutmooqita/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
       <guid>/categories/reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
+      
+      <guid>/categories/research/</guid>
       <description></description>
     </item>
     
