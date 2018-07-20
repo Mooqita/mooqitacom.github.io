@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Startup on Mooqita</title>
-    <link>/tags/startup/</link>
-    <description>Recent content in Startup on Mooqita</description>
+    <title>Team on Mooqita</title>
+    <link>/tags/team/</link>
+    <description>Recent content in Team on Mooqita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mooqita.com, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 05 Jul 2018 01:07:08 -0700</lastBuildDate>
     
-	<atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/blog/2018/07/05/2018-07-18_newteammembers/</guid>
       <description>Meet Anna and Celina - our new interns Mooqita would like to introduce and welcome two new interns to be a part of the Mooqita team this summer. In the past month, Mooqita joined forces with Valleyworx in the Central Valley to find great interns. ValleyWorx is a tech and digital design coworking space in Modesto California that attracts and deems to grow local talent as well as the local tech community in the valley.</description>
-    </item>
-    
-    <item>
-      <title>Another Round at SkyDeck</title>
-      <link>/blog/2018/06/25/2018-06-25_mooqitaatskydeck/</link>
-      <pubDate>Mon, 25 Jun 2018 01:07:08 -0700</pubDate>
-      
-      <guid>/blog/2018/06/25/2018-06-25_mooqitaatskydeck/</guid>
-      <description>Mooqita at Skydeck The Mooqita team is excited to take part in another round as a Hot Desk team at SkyDeck. SkyDeck is a UC Berkeley startup accelerator and incubator that was formed through the collaboration of the Haas School of Business, College of Engineering and the Office of the Vice Chancellor for Research. Its office is located on the penthouse floor of the highest building in downtown Berkeley, and it encompasses a facility for collaboration within an open workspace.</description>
     </item>
     
   </channel>
